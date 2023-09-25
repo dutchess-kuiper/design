@@ -41,7 +41,6 @@ module.exports = {
       spacing: {},
       fontFamily: {
         "quote-medium": "Poppins",
-        "body-regular": "Aeonik",
         inter: "Inter",
       },
       borderRadius: {
